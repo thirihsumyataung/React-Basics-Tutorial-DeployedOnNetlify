@@ -3,4 +3,4 @@
 
 We use components in other React Component. 
 
-<img src="../Images/componentsc.png" alt="ScreenShot" />
+<img src="/nested-components/Images/componentsc.png" alt="" />
