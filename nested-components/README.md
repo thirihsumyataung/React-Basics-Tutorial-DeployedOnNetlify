@@ -1,4 +1,4 @@
-# Nested COmponent and Tools 
+# Nested Component and Tools ✨
 ## Nested Components 
 
 We use components in other React Component. 
