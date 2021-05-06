@@ -15,3 +15,6 @@ Don't forget to remove the git repository in each react files.
 2. ### npm run build 
 3. drug the build folder on Netlify 
 4. Customized your app name 
+
+
+### https://react-testing-1.netlify.app/
